@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>bag_mp4-0021_jpg.rf.82fd6d0d30e0b3a85b1cb55579faa321.jpg</filename>
+	<path>bag_mp4-0021_jpg.rf.82fd6d0d30e0b3a85b1cb55579faa321.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ice-bag</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>267</xmin>
+			<xmax>324</xmax>
+			<ymin>287</ymin>
+			<ymax>340</ymax>
+		</bndbox>
+	</object>
+</annotation>
